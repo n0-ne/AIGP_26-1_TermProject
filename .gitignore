@@ -1,0 +1,43 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity generated files
+sysinfo.txt
+*.stackdump
+
+# Visual Studio / Rider / editor state
+.vs/
+.idea/
+.vsconfig
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ML-Agents training outputs
+results/
+Assets/ML-Agents/Timers/
+
+# Python caches / virtual environments
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
